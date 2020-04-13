@@ -1,0 +1,21 @@
+[debug] [2020-04-13T12:47:48.738Z] ----------------------------------------------------------------------
+[debug] [2020-04-13T12:47:48.741Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Arbaz\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-04-13T12:47:48.741Z] CLI Version:   7.8.1
+[debug] [2020-04-13T12:47:48.741Z] Platform:      win32
+[debug] [2020-04-13T12:47:48.741Z] Node Version:  v10.16.3
+[debug] [2020-04-13T12:47:48.799Z] Time:          Mon Apr 13 2020 17:47:48 GMT+0500 (Pakistan Standard Time)
+[debug] [2020-04-13T12:47:48.799Z] ----------------------------------------------------------------------
+[debug] [2020-04-13T12:47:48.799Z] 
+[debug] [2020-04-13T12:47:48.900Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-04-13T12:47:48.901Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  F:\projects\quizTest\quizapp
+
